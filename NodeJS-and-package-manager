@@ -6,13 +6,23 @@
 
 1.2: How Node Js Work:
 
-    
+    # Tomcat Server : It has 200 threads.
+    # Node Js server : Single thread, non blocking
+    Node js is not for cpu intensive work. that means it is not for heavey wait work. It is best for I/O intensive work. 
 
 1.3: Installation of node Js
 
+
+
 1.4: Global Object and modules
 
+    # What is Global Object
+    # What is Module
+
 1.5: Types of modules
+    1. Local Module
+    2. Core Module
+    3. Third party Module
 
 1.6: first node server
 
